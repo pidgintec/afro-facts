@@ -1,0 +1,24 @@
+{
+  "name": "afro-facts",
+  "version": "1.0.0",
+  "description": "Gets African facts",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pidgintec/afro-facts.git"
+  },
+  "keywords": [
+    "African",
+    "countries",
+    "random"
+  ],
+  "author": "bolaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pidgintec/afro-facts/issues"
+  },
+  "homepage": "https://github.com/pidgintec/afro-facts#readme"
+}
