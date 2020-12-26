@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pidgintec/afro-facts/issues"
   },
-  "homepage": "https://github.com/pidgintec/afro-facts#readme"
+  "homepage": "https://github.com/pidgintec/afro-facts#readme",
+  "dependencies": {
+    "unique-random-array": "^2.0.0"
+  }
 }
